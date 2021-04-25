@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Gaia's Genie"
+theme = "ananke"
+[params]
+  background_color_class = "bg-dark-green"
