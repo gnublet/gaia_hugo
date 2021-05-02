@@ -2,16 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gaiasgenie.com/</loc>
-    <lastmod>2021-04-24T13:30:18-07:00</lastmod>
-  </url><url>
-    <loc>https://gaiasgenie.com/posts/</loc>
-    <lastmod>2021-04-24T13:30:18-07:00</lastmod>
-  </url><url>
-    <loc>https://gaiasgenie.com/posts/test-post/</loc>
-    <lastmod>2021-04-24T13:30:18-07:00</lastmod>
-  </url><url>
     <loc>https://gaiasgenie.com/categories/</loc>
+  </url><url>
+    <loc>https://gaiasgenie.com/</loc>
   </url><url>
     <loc>https://gaiasgenie.com/tags/</loc>
   </url>
