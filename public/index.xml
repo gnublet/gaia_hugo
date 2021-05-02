@@ -2,9 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaia&#39;s Genie</title>
-    <link>http://example.org/</link>
+    <link>https://gaiasgenie.com/</link>
     <description>Recent content on Gaia&#39;s Genie</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Apr 2021 13:30:18 -0700</lastBuildDate><atom:link href="https://gaiasgenie.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>https://gaiasgenie.com/posts/test-post/</link>
+      <pubDate>Sat, 24 Apr 2021 13:30:18 -0700</pubDate>
+      
+      <guid>https://gaiasgenie.com/posts/test-post/</guid>
+      <description>   </description>
+    </item>
+    
   </channel>
 </rss>
