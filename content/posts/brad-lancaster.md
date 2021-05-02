@@ -1,6 +1,6 @@
 ---
 title: "Brad Lancaster"
-date: 2021-05-02T23:53:06-07:00
+date: 2021-05-01T23:53:06-07:00
 draft: false
 ---
 
