@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gaiasgenie.com/categories/</loc>
+    <loc>https://gaiasgenie.com/posts/brad-lancaster/</loc>
+    <lastmod>2021-05-01T23:53:06-07:00</lastmod>
   </url><url>
     <loc>https://gaiasgenie.com/</loc>
+    <lastmod>2021-05-01T23:53:06-07:00</lastmod>
+  </url><url>
+    <loc>https://gaiasgenie.com/posts/</loc>
+    <lastmod>2021-05-01T23:53:06-07:00</lastmod>
+  </url><url>
+    <loc>https://gaiasgenie.com/categories/</loc>
   </url><url>
     <loc>https://gaiasgenie.com/tags/</loc>
   </url>
